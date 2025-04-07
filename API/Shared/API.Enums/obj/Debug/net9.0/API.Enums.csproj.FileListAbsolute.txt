@@ -1,0 +1,12 @@
+C:\PersonalGithub\.net-JWT-auth\API\Shared\API.Enums\bin\Debug\net9.0\API.Enums.deps.json
+C:\PersonalGithub\.net-JWT-auth\API\Shared\API.Enums\bin\Debug\net9.0\API.Enums.dll
+C:\PersonalGithub\.net-JWT-auth\API\Shared\API.Enums\bin\Debug\net9.0\API.Enums.pdb
+C:\PersonalGithub\.net-JWT-auth\API\Shared\API.Enums\obj\Debug\net9.0\API.Enums.GeneratedMSBuildEditorConfig.editorconfig
+C:\PersonalGithub\.net-JWT-auth\API\Shared\API.Enums\obj\Debug\net9.0\API.Enums.AssemblyInfoInputs.cache
+C:\PersonalGithub\.net-JWT-auth\API\Shared\API.Enums\obj\Debug\net9.0\API.Enums.AssemblyInfo.cs
+C:\PersonalGithub\.net-JWT-auth\API\Shared\API.Enums\obj\Debug\net9.0\API.Enums.csproj.CoreCompileInputs.cache
+C:\PersonalGithub\.net-JWT-auth\API\Shared\API.Enums\obj\Debug\net9.0\API.Enums.sourcelink.json
+C:\PersonalGithub\.net-JWT-auth\API\Shared\API.Enums\obj\Debug\net9.0\API.Enums.dll
+C:\PersonalGithub\.net-JWT-auth\API\Shared\API.Enums\obj\Debug\net9.0\refint\API.Enums.dll
+C:\PersonalGithub\.net-JWT-auth\API\Shared\API.Enums\obj\Debug\net9.0\API.Enums.pdb
+C:\PersonalGithub\.net-JWT-auth\API\Shared\API.Enums\obj\Debug\net9.0\ref\API.Enums.dll

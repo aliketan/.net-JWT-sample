@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.OpenApi" />
+    <PackageReference Include="Scalar.AspNetCore" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\Domain\API.Model\API.Model.csproj" />
+    <ProjectReference Include="..\..\Infrastructure\API.Business\API.Business.csproj" />
+    <ProjectReference Include="..\..\Infrastructure\API.Persistence\API.Persistence.csproj" />
+    <ProjectReference Include="..\..\Shared\API.Enums\API.Enums.csproj" />
+    <ProjectReference Include="..\..\Shared\API.Utility\API.Utility.csproj" />
+  </ItemGroup>
+</Project>

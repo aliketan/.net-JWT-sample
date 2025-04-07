@@ -11,3 +11,16 @@ C:\PersonalGithub\.net-JWT-auth\API\Domain\API.Model\obj\Debug\net9.0\API.Model.
 C:\PersonalGithub\.net-JWT-auth\API\Domain\API.Model\obj\Debug\net9.0\refint\API.Model.dll
 C:\PersonalGithub\.net-JWT-auth\API\Domain\API.Model\obj\Debug\net9.0\API.Model.pdb
 C:\PersonalGithub\.net-JWT-auth\API\Domain\API.Model\obj\Debug\net9.0\ref\API.Model.dll
+C:\PersonalGithub\.net-JWT-sample\API\Domain\API.Model\bin\Debug\net9.0\API.Model.deps.json
+C:\PersonalGithub\.net-JWT-sample\API\Domain\API.Model\bin\Debug\net9.0\API.Model.dll
+C:\PersonalGithub\.net-JWT-sample\API\Domain\API.Model\bin\Debug\net9.0\API.Model.pdb
+C:\PersonalGithub\.net-JWT-sample\API\Domain\API.Model\obj\Debug\net9.0\API.Model.csproj.AssemblyReference.cache
+C:\PersonalGithub\.net-JWT-sample\API\Domain\API.Model\obj\Debug\net9.0\API.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\PersonalGithub\.net-JWT-sample\API\Domain\API.Model\obj\Debug\net9.0\API.Model.AssemblyInfoInputs.cache
+C:\PersonalGithub\.net-JWT-sample\API\Domain\API.Model\obj\Debug\net9.0\API.Model.AssemblyInfo.cs
+C:\PersonalGithub\.net-JWT-sample\API\Domain\API.Model\obj\Debug\net9.0\API.Model.csproj.CoreCompileInputs.cache
+C:\PersonalGithub\.net-JWT-sample\API\Domain\API.Model\obj\Debug\net9.0\API.Model.sourcelink.json
+C:\PersonalGithub\.net-JWT-sample\API\Domain\API.Model\obj\Debug\net9.0\API.Model.dll
+C:\PersonalGithub\.net-JWT-sample\API\Domain\API.Model\obj\Debug\net9.0\refint\API.Model.dll
+C:\PersonalGithub\.net-JWT-sample\API\Domain\API.Model\obj\Debug\net9.0\API.Model.pdb
+C:\PersonalGithub\.net-JWT-sample\API\Domain\API.Model\obj\Debug\net9.0\ref\API.Model.dll

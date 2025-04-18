@@ -26,7 +26,7 @@ namespace API.Persistence.EntityFramework.Mappings
 
             builder.Property(r => r.ModifiedDate).HasDefaultValueSql("GETDATE()").IsRequired();
 
-            // Maps to the AspNetRoles table
+            // Maps to the Product table
             builder.ToTable("Product");
         }
     }

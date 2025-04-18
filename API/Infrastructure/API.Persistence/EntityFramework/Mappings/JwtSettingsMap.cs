@@ -23,7 +23,7 @@ namespace API.Persistence.EntityFramework.Mappings
 
             builder.Property(r => r.IsActive).IsRequired().HasDefaultValue(true);
 
-            // Maps to the AspNetRoles table
+            // Maps to the JwtSettings table
             builder.ToTable("JwtSettings");
 
             builder.HasData(new List<JwtSettings>

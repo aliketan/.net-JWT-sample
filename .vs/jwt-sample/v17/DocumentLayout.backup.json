@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PersonalGithub\\.net-JWT-sample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4E0A0E61-B7A0-439D-8734-C0AC097362F6}|API\\Presentation\\API.Mvc\\API.Mvc.csproj|d:\\personalgithub\\.net-jwt-sample\\api\\presentation\\api.mvc\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E0A0E61-B7A0-439D-8734-C0AC097362F6}|API\\Presentation\\API.Mvc\\API.Mvc.csproj|solutionrelative:api\\presentation\\api.mvc\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E0A0E61-B7A0-439D-8734-C0AC097362F6}|API\\Presentation\\API.Mvc\\API.Mvc.csproj|d:\\personalgithub\\.net-jwt-sample\\api\\presentation\\api.mvc\\controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E0A0E61-B7A0-439D-8734-C0AC097362F6}|API\\Presentation\\API.Mvc\\API.Mvc.csproj|solutionrelative:api\\presentation\\api.mvc\\controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E0A0E61-B7A0-439D-8734-C0AC097362F6}|API\\Presentation\\API.Mvc\\API.Mvc.csproj|d:\\personalgithub\\.net-jwt-sample\\api\\presentation\\api.mvc\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4E0A0E61-B7A0-439D-8734-C0AC097362F6}|API\\Presentation\\API.Mvc\\API.Mvc.csproj|solutionrelative:api\\presentation\\api.mvc\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\PersonalGithub\\.net-JWT-sample\\API\\Presentation\\API.Mvc\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "API\\Presentation\\API.Mvc\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\PersonalGithub\\.net-JWT-sample\\API\\Presentation\\API.Mvc\\Controllers\\UserController.cs",
+              "RelativeToolTip": "API\\Presentation\\API.Mvc\\Controllers\\UserController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T12:35:48.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TokenController.cs",
+              "DocumentMoniker": "D:\\PersonalGithub\\.net-JWT-sample\\API\\Presentation\\API.Mvc\\Controllers\\TokenController.cs",
+              "RelativeDocumentMoniker": "API\\Presentation\\API.Mvc\\Controllers\\TokenController.cs",
+              "ToolTip": "D:\\PersonalGithub\\.net-JWT-sample\\API\\Presentation\\API.Mvc\\Controllers\\TokenController.cs",
+              "RelativeToolTip": "API\\Presentation\\API.Mvc\\Controllers\\TokenController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T12:35:44.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\PersonalGithub\\.net-JWT-sample\\API\\Presentation\\API.Mvc\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "API\\Presentation\\API.Mvc\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\PersonalGithub\\.net-JWT-sample\\API\\Presentation\\API.Mvc\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "API\\Presentation\\API.Mvc\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-14T12:35:07.19Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -33,7 +33,7 @@ namespace API.Mvc.Controllers
 
         [HttpPost]
         [Route("create")]
-        public async Task<IActionResult> Register(UserRegisterDto item)
+        public async Task<IActionResult> Register([FromBody] UserRegisterDto item)
         {
             var validationResult = await GetValidationResult(item);
 
@@ -47,7 +47,7 @@ namespace API.Mvc.Controllers
         [HttpPut]
         [Route("update")]
         [Authorize(Roles = "Administrator")]
-        public async Task<IActionResult> Update(UserUpdateDto item)
+        public async Task<IActionResult> Update([FromBody] UserUpdateDto item)
         {
             var validationResult = await GetValidationResult(item);
 

@@ -13,7 +13,7 @@ namespace API.Mvc.Controllers
             ) : BaseController(validatorService)
     {
         [HttpPost]
-        public async Task<IActionResult> Token(CreateTokenDto item)
+        public async Task<IActionResult> Token([FromBody] CreateTokenDto item)
         {
             var validationResult = await GetValidationResult(item);
 
